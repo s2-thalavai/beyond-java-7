@@ -1,2 +1,2 @@
-# beyond-java-8
+# beyond-java-7
 Java 8, 11, 17 concepts practices
